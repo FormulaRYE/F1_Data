@@ -18,4 +18,4 @@ racecar-engineering.com
 
 ## Potential 
 - Fastest Lap Compare with Time of Day/Temp
-- Comparisons with Practices
+- Comparisons with Practices, Qualifying, and Race
