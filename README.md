@@ -19,3 +19,6 @@ racecar-engineering.com
 ## Potential 
 - Fastest Lap Compare with Time of Day/Temp
 - Comparisons with Practices, Qualifying, and Race
+
+## Based on F1 24 Sim Racing
+look and see if in real race shifts match in game suggested gears
