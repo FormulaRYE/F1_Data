@@ -18,3 +18,17 @@ X        5823.131146 \
 Y        1942.956295 \
 Speed     194.797286 \
 dtype: float64 
+
+
+Overlay Distributions for tyre stints
+colored by tyre compound
+
+streamlit.io
+
+richard burns rally
+rallysimfans.hu
+
+dirt rally series
+
+bmng
+
